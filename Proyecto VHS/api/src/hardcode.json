@@ -1,0 +1,29 @@
+[{
+    "id":1,
+    "name":"vhs",
+    "img":"",
+    "price":"",
+    "quantity":""
+},
+{
+    "id":2,
+    "name":"vhsC",
+    "img":"",
+    "price":"",
+    "quantity":""
+},
+{
+    "id":3,
+    "name":"miniDV",
+    "img":"",
+    "price":"",
+    "quantity":""
+},
+{
+    "id":4,
+    "name":"cassette",
+    "img":"",
+    "price":"",
+    "quantity":""
+}
+]
